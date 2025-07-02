@@ -14,14 +14,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/gotartech?color=blue&style=flat-square"></a>
 <a href="https://github.com/gotartech/GOTAR-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GOTAR-XMD/GOTAR-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/gotartech/ADAX-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gotartech/ADAX-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gotartech/ADAX-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/ADAX-XMD/ADAX-XMD?style=flat-square&color=green"></a>
 <a href="https://github.com/gotartech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=GOTAR-XMD;VERSION+2025;BY+GOTAR+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=ADAX-XMD;VERSION+2025;BY+ADAX+TECH" alt="Typing SVG" />
   </a>
 </p>
   
@@ -40,7 +40,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/gotartech/GOTAR-XMD/fork"><img title="GOTAR-XMD" src="https://img.shields.io/badge/FORK-GOTAR%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/gotartech/GOTAR-XMD/fork"><img title="ADAX-XMD" src="https://img.shields.io/badge/FORK-ADAX %20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -65,7 +65,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁GOTAR-XMD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁ADAX-XMD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -73,14 +73,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/gotartech/GOTAR-XMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/adaxtech/GOTAR-XMD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=gotartech/GOTAR-XMD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20GOTAR-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=adaxtech/GOTAR-XMD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ADAX-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -211,10 +211,10 @@ jobs:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME GOTAR TECH࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ADAX TECH࿐➺
 
 <p align="">
-<a href='https://wa.me/18494967948?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝗚𝗢𝗧𝗔𝗥+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/18494967948?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍADAX+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
